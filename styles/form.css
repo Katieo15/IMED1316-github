@@ -1,0 +1,53 @@
+body {background-color: #9DDCCE; /*debug*/
+}
+
+label {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 20px;
+  }
+
+.input,
+.submit,
+.select,
+.textarea
+{
+  margin: 8px;
+  padding: 8px;
+  display: block;
+}
+ legend{
+color:#0A382E;
+font-size: 35px;
+Font-weight: bold;
+   font-weight:bold;
+}
+
+.checkbox, .radio{
+  width:25px;
+  height:25px;
+  position: relative;
+  
+}
+
+.checkbox-text,.radio-text {
+ font-size:23px;
+ top: -5px;
+ position: relative;
+  position:relative;
+  
+}
+.submit{
+  background-color: #eee;
+  color:#333;
+  border-radius: 5px; 
+  border:none;
+  
+}
+
+.submit:hover{
+  background-color: #0b392f;
+  color:#fff; 
+
+  
+}
